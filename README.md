@@ -32,7 +32,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
+  <a href="https://velog.io/@hyuntae99"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white" />
