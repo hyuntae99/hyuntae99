@@ -43,9 +43,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuntae99&layout=compact&theme=radical">
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=hyuntae99&show_icons=true&theme=radical">
-  <br><br>
-
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuntae9912)](https://solved.ac/hyuntae9912)
 </div>
