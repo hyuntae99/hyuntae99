@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white" />
 	<br>
-</div>
+</div>  
 <div align=center>
 	<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuntae99&layout=compact&theme=radical">
