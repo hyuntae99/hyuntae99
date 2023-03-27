@@ -33,7 +33,7 @@
 </div>
 <div align=center>
   <a href="https://velog.io/@hyuntae99"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+  <a href="https://www.notion.so/UMC-4-Spring-Boot-64c3649c19fd4ea1b712b0d6c15e77f5"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white" />
 	<br>
