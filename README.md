@@ -37,7 +37,12 @@
   <a href="https://watery-mandarin-036.notion.site/Profile-1bc03e090c7f474eb5ffabcf228a1823?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
 <br>
 </div>  
+<br>
+
 <div align=center>
-	<br>
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hyuntae99&theme=radical" alt="GitHub Streak" /></a>
+</div>
+
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuntae99&layout=compact&theme=radical">
 </div>
