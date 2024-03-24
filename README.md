@@ -12,6 +12,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
+	  	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 </div>
 <br>
 <div align=center>
@@ -22,7 +23,6 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-  	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
  	<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
 	<img src="https://img.shields.io/badge/R studio-75AADB?style=flat&logo=rstudio&logoColor=white" />
    
@@ -30,13 +30,12 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 Portfolio & Communication 🎨</p>
+	<p>🎨 Portfolio 🎨</p>
 </div>
 <div align=center>
   <a href="https://velog.io/@hyuntae99"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
   <a href="https://watery-mandarin-036.notion.site/Profile-1bc03e090c7f474eb5ffabcf228a1823?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
-	<br>
+<br>
 </div>  
 <div align=center>
 	<br>
