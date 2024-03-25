@@ -12,7 +12,6 @@
 	<br>
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
-	  	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 </div>
 <br>
 <div align=center>
@@ -25,6 +24,10 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
  	<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
 	<img src="https://img.shields.io/badge/R studio-75AADB?style=flat&logo=rstudio&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
    
 	
 </div>
