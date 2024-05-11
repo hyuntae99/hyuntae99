@@ -32,20 +32,10 @@
 	<br>
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-   
-	
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" /> 	
 </div>
 <br>
-<div align=center>
-	<p>🎨 Portfolio 🎨</p>
-</div>
-<div align=center>
-  <a href="https://velog.io/@hyuntae99"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /></a>
-  <a href="https://watery-mandarin-036.notion.site/Profile-1bc03e090c7f474eb5ffabcf228a1823?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
-<br>
-</div>  
-<br>
+
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuntae99&layout=compact&theme=radical">
