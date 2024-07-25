@@ -35,8 +35,14 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" /> 	
 </div>
 <br>
-
-
+<div align=center>
+	<p>📖 About Me 📖</p>
+</div>
+<div align=center> 
+	<a href="https://velog.io/@hyuntae99"><img src="https://img.shields.io/badge/Velog-1EBC8F?style=flat&logo=velog&logoColor=white" /></a>
+	<a href="https://watery-mandarin-036.notion.site/Profile-1bc03e090c7f474eb5ffabcf228a1823"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
+</div>
+<br>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuntae99&layout=compact&theme=radical">
 </div>
